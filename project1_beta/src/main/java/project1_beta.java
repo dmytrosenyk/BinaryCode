@@ -15,7 +15,6 @@ public class project1_beta {
     public static void main(String[] args) {
         clonMain();
     }
-
     public static void clonMain(){
         boolean game =true;
         byte vybir=0;
